@@ -14,7 +14,7 @@ The intended **stakeholders** are a board of directors for an NGO that is lookin
 The **goal** is to build a classifier in order to make a prediction of the operating condition of a water point in Tanzania for each record in the dataset.
 The **implications** of this project could mean several people having access to clean water.
 
-The data comes from Taarifa and the Tanzanian Ministry of Water. The dataset can be found here https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/ 
+The data comes from Taarifa and the Tanzanian Ministry of Water. The dataset can be found [here.](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) 
 
 The original dataset has 3 classes: “Functional”, “Functional Needs Repair”, and “Non Functional”. I engineered it to have 2 classes by combining “Functional Needs Repair” with “Non Functional” to end up with “Functional” and “Needs Repair”.
 
